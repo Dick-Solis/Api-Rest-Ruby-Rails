@@ -1,24 +1,20 @@
-# README
+# API con Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+📌 Desarrollo de todas las peticiones para poder ser consumidas por el Front-End.
 
-Things you may want to cover:
+📌 Uso de la gema Bcrypt para el uso de la autentificación.
 
-* Ruby version
+📌 Base de datos utilizada es PostgreSQL.
 
-* System dependencies
+## `bundle install`
 
-* Configuration
+Tenemos que utilizar este comando e ingresarlo por la linea de comandos, este comando va a ayudar a que se instale todas las gemas usadas dentro del 
+proyecto en el ordenador donde se esta trabajando.
 
-* Database creation
+## Datos Importantes
 
-* Database initialization
+✅ Se puede visualizar el archivo que se generó para poder realizar la construcción de nuestra base de datos `
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
