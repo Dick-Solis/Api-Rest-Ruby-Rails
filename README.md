@@ -13,8 +13,8 @@ proyecto en el ordenador donde se esta trabajando.
 
 ## Datos Importantes
 
-✅ Se puede visualizar el archivo que se generó para poder realizar la construcción de nuestra base de datos `
+📌 Se puede visualizar el archivo que se generó para poder realizar la construcción de nuestra base de datos `ERD.png`
 
-
+📌 El desarrollo se ha diseñado para soportar a dos tipos de usuarios , por eso trabajamos con roles.
 
 
